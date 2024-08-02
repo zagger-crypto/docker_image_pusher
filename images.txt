@@ -1,1 +1,1 @@
-snowdreamtech/frps:latest
+mogublog_business/frps:latest

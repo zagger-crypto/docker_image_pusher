@@ -1,1 +1,1 @@
-mogublog_business/frps:latest
+fatedier/frps:latest

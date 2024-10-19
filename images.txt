@@ -1,1 +1,1 @@
-redis-stack:latest
+redis/redis-stack:latest

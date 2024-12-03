@@ -1,1 +1,1 @@
-redislabs/redisearch:latest
+rustdesk/rustdesk-server:latest

@@ -1,1 +1,1 @@
-siyuan:latest
+b3log/siyuan:latest

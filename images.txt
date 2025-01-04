@@ -1,1 +1,1 @@
-libretranslate/libretranslate
+sushain/apertium-apy

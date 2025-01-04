@@ -1,1 +1,1 @@
-b3log/siyuan:latest
+libretranslate/libretranslate

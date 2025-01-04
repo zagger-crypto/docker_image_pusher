@@ -1,1 +1,1 @@
-sushain/apertium-apy
+apertium/apertium-apy:latest

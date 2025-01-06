@@ -1,1 +1,1 @@
-apertium/apertium-apy:latest
+openjdk:8

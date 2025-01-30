@@ -1,1 +1,1 @@
-ankane/pgvector:latest
+mysql:8.0

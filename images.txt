@@ -1,1 +1,1 @@
-mysql:8.0
+cr2.fit2cloud.com/1panel/maxkb

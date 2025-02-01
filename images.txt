@@ -1,1 +1,1 @@
-redis:6-alpine
+postgres:15-alpine

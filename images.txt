@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.10
+semitechnologies/weaviate:1.19.0

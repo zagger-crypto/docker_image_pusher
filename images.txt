@@ -1,1 +1,1 @@
-langgenius/dify-web:0.15.3
+mysql:5.7

@@ -1,1 +1,1 @@
-eclipse/che-server:6.19.0
+eclipse/ubuntu_jdk8

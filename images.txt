@@ -1,1 +1,1 @@
-openjdk:17
+codercom/code-server:latest

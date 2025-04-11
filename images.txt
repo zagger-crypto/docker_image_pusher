@@ -1,1 +1,1 @@
-codercom/code-server:latest
+quay.io/eclipse/che-keycloak:7.40.2

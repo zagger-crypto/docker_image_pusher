@@ -1,1 +1,1 @@
-quay.io/eclipse/che-keycloak:7.40.2
+quay.io/eclipse/che-server:7.40.2

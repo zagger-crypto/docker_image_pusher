@@ -1,1 +1,1 @@
-registry.jetbrains.team/p/prj/containers/projector-idea-c
+theiaide/theia:next

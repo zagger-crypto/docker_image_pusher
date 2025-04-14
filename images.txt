@@ -1,1 +1,1 @@
-theiaide/theia:next
+eclipse-theia/theia:latest

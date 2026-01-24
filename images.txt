@@ -1,1 +1,1 @@
-diygod/rsshub:chromium-bundled
+yanwk/comfyui-boot:latest

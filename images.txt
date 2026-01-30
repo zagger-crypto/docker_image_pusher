@@ -1,1 +1,1 @@
-yanwk/comfyui-boot:latest
+rabbitmq:3-management

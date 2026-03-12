@@ -1,1 +1,1 @@
-cozedev/coze-studio-server:latest
+nsqio/nsq:v1.2.1

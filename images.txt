@@ -1,1 +1,1 @@
-bitnamilegacy/redis:8.0
+bitnamilegacy/elasticsearch:8.18.0

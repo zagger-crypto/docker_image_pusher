@@ -1,1 +1,1 @@
-bitnamilegacy/etcd:3.5
+milvusdb/milvus:v2.5.10

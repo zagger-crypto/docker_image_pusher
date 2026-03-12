@@ -1,1 +1,1 @@
-mysql:8.4.5
+bitnamilegacy/redis:8.0

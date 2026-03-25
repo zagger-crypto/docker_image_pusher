@@ -1,1 +1,1 @@
-searxng/searxng:latest
+mintplexlabs/anythingllm

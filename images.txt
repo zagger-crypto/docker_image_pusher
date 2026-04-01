@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+ghcr.io/huggingface/text-embeddings-inference:latest

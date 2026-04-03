@@ -1,1 +1,1 @@
-ghcr.io/huggingface/text-embeddings-inference:1.5
+michaelf34/infinity:latest

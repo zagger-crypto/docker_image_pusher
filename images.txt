@@ -1,1 +1,1 @@
-xinntao/realesrgan 
+jojje/vai-docker:latest

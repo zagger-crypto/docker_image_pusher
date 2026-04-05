@@ -1,1 +1,1 @@
-ghcr.io/k4yt3x/video2x:latest
+nvidia/cuda:12.0-base

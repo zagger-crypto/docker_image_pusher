@@ -1,1 +1,1 @@
-waikato/mmagic:latest
+xinntao/realesrgan 

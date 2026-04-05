@@ -1,1 +1,1 @@
-ghcr.io/xinntao/realesrgan-ncnn-vulkan:latest
+waikato/mmagic:latest

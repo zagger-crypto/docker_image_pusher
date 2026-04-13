@@ -1,1 +1,1 @@
-jojje/vai-docker:latest
+ghcr.io/nesquena/hermes-webui:latest

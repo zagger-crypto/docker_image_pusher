@@ -1,1 +1,1 @@
-ghcr.io/nesquena/hermes-webui:latest
+wordpress:latest

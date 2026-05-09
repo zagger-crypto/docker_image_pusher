@@ -1,1 +1,1 @@
-eclipse-temurin:21-jdk
+amazoncorretto:21

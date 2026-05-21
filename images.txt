@@ -1,1 +1,1 @@
-amazoncorretto:21
+python:3.11-slim

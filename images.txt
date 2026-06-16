@@ -1,1 +1,1 @@
-python:3.11-slim
+openjdk:17-jdk-slim

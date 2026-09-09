@@ -1,1 +1,1 @@
-eclipse-temurin:17-jdk-jammy
+qwenllm/qwen3-asr:latest
